@@ -1,0 +1,21 @@
+{
+  "5772748918": {
+    "name": "Daneda",
+    "username": "Aaalllelua",
+    "group": "",
+    "registeredAt": "2026-02-21T15:47:10.826Z",
+    "settings": {
+      "notifications": true,
+      "language": "ru"
+    },
+    "stats": {
+      "pairs": 0,
+      "deadlines": 0,
+      "notes": 0,
+      "grades": 1,
+      "aiQueries": 1
+    },
+    "level": 1,
+    "experience": 5
+  }
+}
